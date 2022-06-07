@@ -1,0 +1,33 @@
+Unit 1: The Learner FirstSCORM package
+Unit 2: Helping Students Understand Texts: ReadingSCORM package
+Unit 3: Dealing with LanguageSCORM package
+Unit 4: Classroom ManagementSCORM package
+Unit 5: Using the Coursebook 1SCORM package
+Unit 6: Lesson Planning 1SCORM package
+Unit 7: More about the LearnerSCORM package
+Unit 8: Checking UnderstandingSCORM package
+Unit 9: Anticipating Problems with LanguageSCORM package
+Unit 10: Using the Coursebook 2: Language FocusSCORM package
+Unit 11: Helping Students Understand Texts: ListeningSCORM package
+Unit 12: LexisSCORM package
+Unit 13: Practice ActivitiesSCORM package
+Unit 14: CorrectionSCORM package
+Unit 15: Pronunciation 1 – OverviewSCORM package
+Unit 16: GrammarSCORM package
+Unit 17: SpeakingSCORM package
+Unit 18: Lesson Planning 2SCORM package
+Unit 19: WritingSCORM package
+Unit 20: Recording and Recycling LanguageSCORM package
+Unit 21: Using Authentic MaterialsSCORM package
+Unit 22: DiscourseSCORM package
+Unit 23: Beyond the CoursebookSCORM package
+Unit 24: Pronunciation 2SCORM package
+Unit 25: Language ReviewSCORM package
+Unit 26a: LiteracySCORM package
+Unit 26b: Varieties of EnglishSCORM package
+Unit 27: Testing and ExamsSCORM package
+Unit 28: Learner TrainingSCORM package
+Unit 29a: Young LearnersSCORM package
+Unit 29b: English for Specific PurposesSCORM package
+Unit 29c: Different ContextsSCORM package
+Unit 30: Beyond the courseSCORM package
